@@ -1,0 +1,15 @@
+.logo{
+    width:50px;
+}
+.pin--list{
+    padding:10px 20px;
+}
+.pin--list__item{
+    margin-top:10px;
+}
+.pin--list__item .image{
+    width:100%;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
